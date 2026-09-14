@@ -1,6 +1,61 @@
 {
- "generated_at": "2026-09-13T11:46:00.935264+00:00",
+ "generated_at": "2026-09-14T12:38:53.773360+00:00",
  "changes": [
+  {
+   "date": "2026-09-14T12:38:53.773360+00:00",
+   "type": "new_program",
+   "platform": "hackerone",
+   "program": "Brave Software",
+   "handle": "brave",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-14T12:38:53.773360+00:00",
+   "type": "new_program",
+   "platform": "yeswehack",
+   "program": "Superbank - Public Bug Bounty Program",
+   "handle": "superbank-public-bug-bounty-program",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-14T12:38:53.773360+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Ninja Kiwi Games Bug Bounty program",
+   "handle": "ninjakiwigames/ninjakiwigames",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-14T11:22:17+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Exoscale Bug Bounty",
+   "handle": "exoscale/excoscalebugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-14T10:21:57+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Daytona Bug Bounty",
+   "handle": "daytona/daytonabugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-14T07:59:47.141000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Superbet",
+   "handle": "superbet",
+   "asset": "https://super.xyz",
+   "asset_type": "URL",
+   "bounty": true
+  },
   {
    "date": "2026-09-11T11:03:53.280000+00:00",
    "type": "scope_added",
@@ -1440,6 +1495,15 @@
    "asset": "https://www.visa.com.ua/",
    "asset_type": "URL",
    "bounty": true
+  },
+  {
+   "date": "2026-08-24T21:16:41+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "ADAC Vulnerability Disclosure Program",
+   "handle": "adac/adacvulnerabilitydisclosureprogram",
+   "asset": null,
+   "asset_type": null
   },
   {
    "date": "2026-08-24T15:50:53.166000+00:00",
@@ -5928,76 +5992,6 @@
    "program": "Alshaya",
    "handle": "alshaya",
    "asset": "www.shayakahve.com.tr",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-15T05:47:53.745000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "media.victoriassecret.cz",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-15T05:47:53.745000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "tracking.victoriassecret.cz",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-15T05:47:53.745000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "media.bathandbodyworks.ro",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-15T05:47:53.745000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "www.bathandbodyworks.ro",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-15T05:47:53.745000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "apigw.dev.alshaya.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-15T05:47:53.745000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "mft.dev.alshaya.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-15T05:47:53.745000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "odi.dev.alshaya.com",
    "asset_type": "URL",
    "bounty": false
   }
