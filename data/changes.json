@@ -1,50 +1,213 @@
 {
- "generated_at": "2026-09-14T12:38:53.773360+00:00",
+ "generated_at": "2026-09-15T11:39:24.818271+00:00",
  "changes": [
   {
-   "date": "2026-09-14T12:38:53.773360+00:00",
-   "type": "new_program",
+   "date": "2026-09-15T11:39:24.818271+00:00",
+   "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Brave Software",
-   "handle": "brave",
-   "asset": null,
+   "program": "Gogo VDP",
+   "handle": "gogo_vdp",
+   "asset": "https://gogo.aero",
    "asset_type": null
   },
   {
-   "date": "2026-09-14T12:38:53.773360+00:00",
+   "date": "2026-09-15T11:39:24.818271+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Gogo VDP",
+   "handle": "gogo_vdp",
+   "asset": "https://gosatcom.net",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-15T11:39:24.818271+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Gogo VDP",
+   "handle": "gogo_vdp",
+   "asset": "https://satcomdirect.com.br",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-15T11:39:24.818271+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Gogo VDP",
+   "handle": "gogo_vdp",
+   "asset": "https://satcomsimple.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-15T11:39:24.818271+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Gogo VDP",
+   "handle": "gogo_vdp",
+   "asset": "https://satcomtest.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-15T11:39:24.818271+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Gogo VDP",
+   "handle": "gogo_vdp",
+   "asset": "www.aeroxr.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-15T11:39:24.818271+00:00",
    "type": "new_program",
    "platform": "yeswehack",
-   "program": "Superbank - Public Bug Bounty Program",
-   "handle": "superbank-public-bug-bounty-program",
+   "program": "Contentsquare Bug Bounty Program",
+   "handle": "contentsquare-bug-bounty-program",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-14T12:38:53.773360+00:00",
+   "date": "2026-09-15T11:39:24.818271+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "Ninja Kiwi Games Bug Bounty program",
-   "handle": "ninjakiwigames/ninjakiwigames",
+   "program": "Intertoys",
+   "handle": "intertoys/intertoys",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-14T11:22:17+00:00",
-   "type": "program_updated",
+   "date": "2026-09-15T11:39:24.818271+00:00",
+   "type": "new_program",
    "platform": "intigriti",
-   "program": "Exoscale Bug Bounty",
-   "handle": "exoscale/excoscalebugbounty",
+   "program": "PDQ bug bounty program",
+   "handle": "pdq/pdqcomprivate",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-14T10:21:57+00:00",
+   "date": "2026-09-15T09:49:17+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Daytona Bug Bounty",
-   "handle": "daytona/daytonabugbounty",
+   "program": "Wireless Logic",
+   "handle": "wl/wirelesslogic",
    "asset": null,
    "asset_type": null
+  },
+  {
+   "date": "2026-09-15T07:24:37.399000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Global Payments",
+   "handle": "global-payments",
+   "asset": "testprovider.revaluemycard.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-15T07:24:02.764000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Global Payments",
+   "handle": "global-payments",
+   "asset": "testmobile.revaluemycard.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-15T07:23:19.986000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Global Payments",
+   "handle": "global-payments",
+   "asset": "testadmin.revaluemycard.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-15T07:22:24.506000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Global Payments",
+   "handle": "global-payments",
+   "asset": "test.revaluemycard.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-15T07:19:32.875000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Global Payments",
+   "handle": "global-payments",
+   "asset": "http://heartland.us",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-15T07:18:40.542000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Global Payments",
+   "handle": "global-payments",
+   "asset": "Merchant Portal",
+   "asset_type": "OTHER",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-15T07:18:12.602000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Global Payments",
+   "handle": "global-payments",
+   "asset": "Heartland Developer Portal",
+   "asset_type": "OTHER",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-15T06:29:19+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Randstad",
+   "handle": "randstad/randstad",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-14T19:49:26.475000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Ubiquiti Inc.",
+   "handle": "ui",
+   "asset": "UniFi-Play",
+   "asset_type": "HARDWARE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-14T19:39:53.833000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Ubiquiti Inc.",
+   "handle": "ui",
+   "asset": "Enterprise Audio/Video",
+   "asset_type": "HARDWARE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-14T13:47:20+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "TrueLayer VDP",
+   "handle": "truelayer/truelayervdp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-14T12:49:54.167000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "MercadoLibre",
+   "handle": "mercadolibre",
+   "asset": "mercadolibreexperience.com.*",
+   "asset_type": "WILDCARD",
+   "bounty": false
   },
   {
    "date": "2026-09-14T07:59:47.141000+00:00",
@@ -1495,15 +1658,6 @@
    "asset": "https://www.visa.com.ua/",
    "asset_type": "URL",
    "bounty": true
-  },
-  {
-   "date": "2026-08-24T21:16:41+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "ADAC Vulnerability Disclosure Program",
-   "handle": "adac/adacvulnerabilitydisclosureprogram",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-08-24T15:50:53.166000+00:00",
@@ -5833,166 +5987,6 @@
    "handle": "cognition",
    "asset": "*.cognition.com",
    "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-23T18:49:04.429000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Cognition",
-   "handle": "cognition",
-   "asset": "*.windsurf.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-23T15:10:22.205000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "DIB-VDP",
-   "handle": "dib-vdp",
-   "asset": "*.leonardodrs.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-23T15:10:00.922000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "DIB-VDP",
-   "handle": "dib-vdp",
-   "asset": "*.drsrada.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-23T15:09:37.209000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "DIB-VDP",
-   "handle": "dib-vdp",
-   "asset": "*.drs.ca",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-23T15:09:09.980000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "DIB-VDP",
-   "handle": "dib-vdp",
-   "asset": "*.drs.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-23T13:18:37.633000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "SIX Group",
-   "handle": "six-group",
-   "asset": "https://disclosure-test.six-exchange-regulation.com/",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-23T07:07:57.011000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Malwarebytes",
-   "handle": "malwarebytes",
-   "asset": "Any other ThreatDown asset",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-18T19:37:09.296000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Anthropic Cyber Jailbreak",
-   "handle": "anthropic-cyber-jailbreak",
-   "asset": "Fable 5",
-   "asset_type": "AI_MODEL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-17T09:01:05.424000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "SingleStore",
-   "handle": "singlestore",
-   "asset": "mcp.singlestore.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-17T08:54:49.104000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "SingleStore",
-   "handle": "singlestore",
-   "asset": "*.cloud.singlestore.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-17T08:50:43.893000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "SingleStore",
-   "handle": "singlestore",
-   "asset": "*.p.singlestore.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-16T18:14:24.863000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Gogo VDP",
-   "handle": "gogo_vdp",
-   "asset": "gogogenius.stage.gogoair.cloud",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-16T14:45:07.943000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Dynatrace",
-   "handle": "dynatrace",
-   "asset": "https://github.com/Dynatrace/dynatrace-operator",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-15T05:47:53.745000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "www.victoriassecretbeauty.ro",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-15T05:47:53.745000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "www.starbucks.az",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-15T05:47:53.745000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "www.shayakahve.com.tr",
-   "asset_type": "URL",
    "bounty": false
   }
  ]
