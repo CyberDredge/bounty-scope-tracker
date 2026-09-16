@@ -1,93 +1,239 @@
 {
- "generated_at": "2026-09-15T11:39:24.818271+00:00",
+ "generated_at": "2026-09-16T11:26:43.412529+00:00",
  "changes": [
   {
-   "date": "2026-09-15T11:39:24.818271+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Gogo VDP",
-   "handle": "gogo_vdp",
-   "asset": "https://gogo.aero",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-15T11:39:24.818271+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Gogo VDP",
-   "handle": "gogo_vdp",
-   "asset": "https://gosatcom.net",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-15T11:39:24.818271+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Gogo VDP",
-   "handle": "gogo_vdp",
-   "asset": "https://satcomdirect.com.br",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-15T11:39:24.818271+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Gogo VDP",
-   "handle": "gogo_vdp",
-   "asset": "https://satcomsimple.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-15T11:39:24.818271+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Gogo VDP",
-   "handle": "gogo_vdp",
-   "asset": "https://satcomtest.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-15T11:39:24.818271+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Gogo VDP",
-   "handle": "gogo_vdp",
-   "asset": "www.aeroxr.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-15T11:39:24.818271+00:00",
+   "date": "2026-09-16T11:26:43.412529+00:00",
    "type": "new_program",
+   "platform": "hackerone",
+   "program": "Arc BBP",
+   "handle": "arc-bbp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-16T11:26:43.412529+00:00",
+   "type": "new_program",
+   "platform": "hackerone",
+   "program": "Klarna",
+   "handle": "klarna",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-16T11:26:43.412529+00:00",
+   "type": "new_program",
+   "platform": "hackerone",
+   "program": "MariaDB",
+   "handle": "mariadb",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-16T11:26:43.412529+00:00",
+   "type": "scope_removed",
    "platform": "yeswehack",
-   "program": "Contentsquare Bug Bounty Program",
-   "handle": "contentsquare-bug-bounty-program",
-   "asset": null,
+   "program": "vidaXL Services - Open Bug Bounty Program",
+   "handle": "vidaxl-services-open-bug-bounty-program",
+   "asset": "https://parcelhubeurope.com",
    "asset_type": null
   },
   {
-   "date": "2026-09-15T11:39:24.818271+00:00",
+   "date": "2026-09-16T11:26:43.412529+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "Intertoys",
-   "handle": "intertoys/intertoys",
+   "program": "Leapsome",
+   "handle": "leapsome/leapsome",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-15T11:39:24.818271+00:00",
+   "date": "2026-09-16T11:26:43.412529+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "PDQ bug bounty program",
-   "handle": "pdq/pdqcomprivate",
+   "program": "Daytona Bug Bounty",
+   "handle": "daytona/daytonabugbounty",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-15T09:49:17+00:00",
+   "date": "2026-09-16T11:26:43.412529+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Skoda Auto Bug Bounty Program",
+   "handle": "skodaauto/skodaautoprivatebugbountyprogram",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-16T11:26:43.412529+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "DataCamp",
+   "handle": "datacamp/datacamp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-16T11:26:43.412529+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "GULP",
+   "handle": "randstad/gulp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-16T11:26:43.412529+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Coveo Public Bug Bounty",
+   "handle": "coveo/coveopublicbugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-16T10:24:33+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Wireless Logic",
-   "handle": "wl/wirelesslogic",
+   "program": "The Perfume Shop",
+   "handle": "aswatson/theperfumeshop",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-16T09:10:32.820000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "d-you App & German EUDI Wallet Ecosystem",
+   "handle": "common_codes",
+   "asset": "https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/pns",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-16T09:10:09.324000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "d-you App & German EUDI Wallet Ecosystem",
+   "handle": "common_codes",
+   "asset": "https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/status-lists",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-16T09:09:44.659000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "d-you App & German EUDI Wallet Ecosystem",
+   "handle": "common_codes",
+   "asset": "https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/mdvm",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-16T09:06:12.746000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Flutter UK&I",
+   "handle": "flutteruki",
+   "asset": "metrocompetitions.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-16T09:04:11.314000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "d-you App & German EUDI Wallet Ecosystem",
+   "handle": "common_codes",
+   "asset": "https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/rwsca",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-16T09:03:16.799000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "d-you App & German EUDI Wallet Ecosystem",
+   "handle": "common_codes",
+   "asset": "d-you Wallet iOS Test",
+   "asset_type": "TESTFLIGHT",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-16T09:02:50.214000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "d-you App & German EUDI Wallet Ecosystem",
+   "handle": "common_codes",
+   "asset": "d-you Wallet Android Test",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-16T08:58:46.804000+00:00",
+   "type": "new_program",
+   "platform": "hackerone",
+   "program": "d-you App & German EUDI Wallet Ecosystem",
+   "handle": "common_codes",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-15T17:38:45.237000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "d-you App & German EUDI Wallet Ecosystem",
+   "handle": "common_codes",
+   "asset": "https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/wpb",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-15T17:33:07.546000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Files.com",
+   "handle": "files",
+   "asset": "your-assigned-subdomain.hosted-by-files.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-15T17:29:34.555000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "d-you App & German EUDI Wallet Ecosystem",
+   "handle": "common_codes",
+   "asset": "d-you Android test",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-15T17:29:06.696000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "d-you App & German EUDI Wallet Ecosystem",
+   "handle": "common_codes",
+   "asset": "d-you iOS test",
+   "asset_type": "TESTFLIGHT",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-15T15:48:09+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Ubisoft Game Security BBP",
+   "handle": "ubisoft/ubisoftgamesecbbp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-15T12:52:45+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "CM.com",
+   "handle": "cmcom/cmcom",
    "asset": null,
    "asset_type": null
   },
@@ -162,13 +308,64 @@
    "bounty": false
   },
   {
-   "date": "2026-09-15T06:29:19+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Randstad",
-   "handle": "randstad/randstad",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-09-14T23:48:07.007000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "d-you App & German EUDI Wallet Ecosystem",
+   "handle": "common_codes",
+   "asset": "https://github.com/german-national-wallet/de-eudi-wallet-backend",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-14T23:46:25.427000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "d-you App & German EUDI Wallet Ecosystem",
+   "handle": "common_codes",
+   "asset": "https://groups.google.com/g/de-eudi-bug-bounty/",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-14T23:45:19.524000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "d-you App & German EUDI Wallet Ecosystem",
+   "handle": "common_codes",
+   "asset": "https://testflight.apple.com/join/a2Qxrr2C",
+   "asset_type": "TESTFLIGHT",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-14T23:44:29.308000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "d-you App & German EUDI Wallet Ecosystem",
+   "handle": "common_codes",
+   "asset": "https://testflight.apple.com/join/a2Qxrr2C",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-14T20:58:43.754000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Arc BBP",
+   "handle": "arc-bbp",
+   "asset": "rpc.drpc.testnet.arc.network",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-14T20:03:11.352000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Arc BBP",
+   "handle": "arc-bbp",
+   "asset": "*.arc.io",
+   "asset_type": "WILDCARD",
+   "bounty": true
   },
   {
    "date": "2026-09-14T19:49:26.475000+00:00",
@@ -191,13 +388,34 @@
    "bounty": true
   },
   {
-   "date": "2026-09-14T13:47:20+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "TrueLayer VDP",
-   "handle": "truelayer/truelayervdp",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-09-14T18:10:43.358000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Arc BBP",
+   "handle": "arc-bbp",
+   "asset": "rpc.testnet.arc.network",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-14T18:10:43.358000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Arc BBP",
+   "handle": "arc-bbp",
+   "asset": "https://github.com/circlefin/arc-node",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-14T18:10:43.358000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Arc BBP",
+   "handle": "arc-bbp",
+   "asset": "https://github.com/circlefin/arc-remote-signer",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
   },
   {
    "date": "2026-09-14T12:49:54.167000+00:00",
@@ -216,6 +434,16 @@
    "program": "Superbet",
    "handle": "superbet",
    "asset": "https://super.xyz",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-11T20:23:24.339000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Arc BBP",
+   "handle": "arc-bbp",
+   "asset": "arc.io",
    "asset_type": "URL",
    "bounty": true
   },
@@ -257,6 +485,16 @@
    "handle": "neon_bbp",
    "asset": "Neon-supported extensions",
    "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-10T14:43:47.574000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "d-you App & German EUDI Wallet Ecosystem",
+   "handle": "common_codes",
+   "asset": "https://test.api.example.com",
+   "asset_type": "API",
    "bounty": true
   },
   {
@@ -2408,6 +2646,46 @@
    "asset": "*.raqnhub.cn",
    "asset_type": "WILDCARD",
    "bounty": false
+  },
+  {
+   "date": "2026-08-12T11:18:42.199000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Klarna",
+   "handle": "klarna",
+   "asset": "*.klarna.com",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-12T11:18:42.199000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Klarna",
+   "handle": "klarna",
+   "asset": "*.klarna.net",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-12T11:18:42.199000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Klarna",
+   "handle": "klarna",
+   "asset": "*.klarnacdn.net",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-12T11:18:42.199000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Klarna",
+   "handle": "klarna",
+   "asset": "*.pricerunner.com",
+   "asset_type": "WILDCARD",
+   "bounty": true
   },
   {
    "date": "2026-08-11T09:21:30.274000+00:00",
@@ -5707,286 +5985,6 @@
    "handle": "mondelez",
    "asset": "vincilight.philadelphia.it",
    "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-03T00:07:56.376000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "insights.mdlzawayfromhome.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-03T00:06:36.664000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "pascallpromo.co.nz",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-03T00:06:00.016000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "philadelphiagenuss.de",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-03T00:05:17.294000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "oreo-starwars.ca",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-03T00:03:36.362000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "anniversariooro.orosaiwa.it",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-03T00:02:51.432000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "oreo-challenge.oreo.eu",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-03T00:00:16.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "tridentbr.com.br",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-02T23:59:42.773000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "heroes.cadbury.co.uk",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-02T23:58:13.580000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "scoresnackgoals.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-02T23:57:24.803000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "royalbakingpowder.co.za",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-02T23:56:33.229000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "oreo-promo.ge",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-02T23:55:48.930000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "winforyoursquad.cadbury.ie",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-02T23:54:20.727000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "amikekszunkjatek.hu",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-02T23:41:01.606000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "suporter-tuc.ro",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-01T19:42:21.362000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mars",
-   "handle": "mars",
-   "asset": "www.pringles.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-01T18:47:11.342000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "LATAM Airlines",
-   "handle": "latamairlines",
-   "asset": "portaltf.appslatam.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-01T00:59:04.215000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "8x8",
-   "handle": "8x8-bounty",
-   "asset": "*.labs.8x8.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-01T00:54:52.274000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "8x8",
-   "handle": "8x8-bounty",
-   "asset": "mcp.8x8.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-30T20:14:36.250000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "poc.ezshield.biz",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-25T13:06:57.997000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "DIB-VDP",
-   "handle": "dib-vdp",
-   "asset": "*.optics1.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-25T13:06:33.674000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "DIB-VDP",
-   "handle": "dib-vdp",
-   "asset": "*.safran-dsi.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-24T19:07:10.702000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Hilton",
-   "handle": "hilton",
-   "asset": "Hilton Third Party Applications - *.hilton.com",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-24T19:01:48.203000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Hilton",
-   "handle": "hilton",
-   "asset": "com.hilton.android.hhonors",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-24T19:00:21.081000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Hilton",
-   "handle": "hilton",
-   "asset": "id635150066",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-24T18:58:29.072000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Hilton",
-   "handle": "hilton",
-   "asset": "Hilton Franchised Properties",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-23T18:53:40.818000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Cognition",
-   "handle": "cognition",
-   "asset": "Devin CLI",
-   "asset_type": "DOWNLOADABLE_EXECUTABLES",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-23T18:52:45.059000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Cognition",
-   "handle": "cognition",
-   "asset": "*.cognition.ai",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-23T18:50:05.818000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Cognition",
-   "handle": "cognition",
-   "asset": "*.cognition.com",
-   "asset_type": "WILDCARD",
    "bounty": false
   }
  ]
