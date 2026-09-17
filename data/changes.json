@@ -1,129 +1,367 @@
 {
- "generated_at": "2026-09-17T11:36:00.898464+00:00",
+ "generated_at": "2026-09-17T16:19:34.291465+00:00",
  "changes": [
   {
-   "date": "2026-09-17T11:36:00.898464+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Goldman Sachs",
-   "handle": "goldmansachs",
-   "asset": "*.vennhypotheken.nl",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-17T11:36:00.898464+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Vimeo",
-   "handle": "vimeo",
-   "asset": "*.livestream.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-17T11:36:00.898464+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Vimeo",
-   "handle": "vimeo",
-   "asset": "*.new.livestream.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-17T11:36:00.898464+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Vimeo",
-   "handle": "vimeo",
-   "asset": "Livestream software (Producer, Studio)",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-17T11:36:00.898464+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Vimeo",
-   "handle": "vimeo",
-   "asset": "com.livestream.livestream",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-17T11:36:00.898464+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Vimeo",
-   "handle": "vimeo",
-   "asset": "donations.livestream.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-17T11:36:00.898464+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Vimeo",
-   "handle": "vimeo",
-   "asset": "www.livestream.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-17T11:36:00.898464+00:00",
-   "type": "new_program",
-   "platform": "yeswehack",
-   "program": "Dovecot",
-   "handle": "dovecot",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-17T11:36:00.898464+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "UpCloud Bug Bounty",
-   "handle": "upcloud/upcloud",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-17T11:36:00.898464+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Kinepolis Group",
-   "handle": "kinepolis/website",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-17T11:36:00.898464+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "TrueLayer",
-   "handle": "truelayer/truelayer",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-17T10:29:08+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Leapsome",
-   "handle": "leapsome/leapsome",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-17T09:31:02+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Daytona Bug Bounty",
-   "handle": "daytona/daytonabugbounty",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-16T16:07:47+00:00",
+   "date": "2026-09-17T16:22:54+00:00",
    "type": "program_updated",
    "platform": "intigriti",
    "program": "Adobe Public",
    "handle": "adobe/adobepublic",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "new_program",
+   "platform": "hackerone",
+   "program": "ExpressionEngine",
+   "handle": "expressionengine",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "academy.infomaniak.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "admin2.infomaniak.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "ai-tools.infomaniak.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "developer.infomaniak.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "https://play.google.com/store/apps/details?id=com.infomaniak.mail&hl=en_US",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "invitation.infomaniak.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "mail-builder.infomaniak.com/",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "manager.infomaniak.com/*proxy*",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "newsletter.infomaniak.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "sms.infomaniak.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "api.pub1.infomaniak.cloud",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "api.pub2.infomaniak.cloud",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "https://apps.apple.com/fr/app/infomaniak-authenticator/id1478424817",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "https://apps.apple.com/fr/app/infomaniak-euria/id6754152858",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "https://apps.apple.com/fr/app/infomaniak-kchat/id6443845553",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "https://apps.apple.com/fr/app/infomaniak-swisstransfer/id6737686335",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "https://play.google.com/store/apps/details?id=com.infomaniak.auth",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "https://play.google.com/store/apps/details?id=com.infomaniak.chat",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "https://play.google.com/store/apps/details?id=com.infomaniak.euria",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "https://play.google.com/store/apps/details?id=com.infomaniak.mail",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "https://play.google.com/store/apps/details?id=com.infomaniak.swisstransfer",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "https://play.google.com/store/apps/details?id=com.infomaniak.sync",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "kdrive.infomaniak.com/app/*/preview/*",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "kdrive.infomaniak.com/app/office*/*",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "ksuite.infomaniak.com/*/kdrive/*/preview/*",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Posten Bring Responsible Disclosure",
+   "handle": "postenbringas/vdp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T16:19:34.291465+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Venly",
+   "handle": "arkane/arkanenetwork",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T16:13:49+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Telenet - Base - Wyre - Tadaam",
+   "handle": "telenet/telenetgroup",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T15:49:04.752000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Faraday, Inc.",
+   "handle": "faraday_inc",
+   "asset": "api.pro.faraday.ai",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T15:47:20.389000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Faraday, Inc.",
+   "handle": "faraday_inc",
+   "asset": "BigQuery",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T15:40:58.426000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Faraday, Inc.",
+   "handle": "faraday_inc",
+   "asset": "mcp.faraday.ai",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T15:40:23.552000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Faraday, Inc.",
+   "handle": "faraday_inc",
+   "asset": "pro.faraday.ai",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T15:37:32.581000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Faraday, Inc.",
+   "handle": "faraday_inc",
+   "asset": "api.row.pro",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T14:57:28.524000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "*.expediataaprewards.com",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T14:56:55.561000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "*.expediataap.com",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-17T11:45:49+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Daytona Bug Bounty",
+   "handle": "daytona/daytonabugbounty",
    "asset": null,
    "asset_type": null
   },
@@ -5746,246 +5984,6 @@
    "asset": "1477299281",
    "asset_type": "APPLE_STORE_APP_ID",
    "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:41:08.751000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "e1ch.neustar.biz",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-06T14:37:42.459000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "6GE6LAAR8V.com.woltapp.wolt",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:30:58.591000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "com.wolt.courierapp",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:28:44.999000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "com.wolt.android",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:17:43.281000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "wolt.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:16:48.997000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "restaurant-api.wolt.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:16:17.057000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "ops.wolt.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:15:22.508000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "merchant.wolt.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:14:27.882000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "drive.wolt.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:13:46.596000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "corporate.wolt.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:12:44.031000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "authentication.wolt.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-03T00:23:29.686000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "th.oreosea.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-03T00:22:46.301000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "winwithphilly.no",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-03T00:21:58.420000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "vn.oreosea.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-03T00:21:02.666000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "backtoschoolsnacks.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-03T00:18:06.712000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "oreosocolapie.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-03T00:17:28.335000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "mirabilandia.orosaiwa.it",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-03T00:16:17.895000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "concorsoesselunga.philadelphia.it",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-03T00:15:26.550000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "familiaterrabusi.com.ar",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-03T00:14:47.158000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "vincigrenade.it",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-03T00:13:47.719000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "miamicfsweeps.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-03T00:12:18.622000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "chappies.co.za",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-03T00:10:29.029000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "gol.oreo.mx",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-03T00:08:43.289000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "vincilight.philadelphia.it",
-   "asset_type": "URL",
-   "bounty": false
   }
  ]
 }
