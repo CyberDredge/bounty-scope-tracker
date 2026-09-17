@@ -1,45 +1,108 @@
 {
- "generated_at": "2026-09-16T11:26:43.412529+00:00",
+ "generated_at": "2026-09-17T11:36:00.898464+00:00",
  "changes": [
   {
-   "date": "2026-09-16T11:26:43.412529+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Arc BBP",
-   "handle": "arc-bbp",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-16T11:26:43.412529+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Klarna",
-   "handle": "klarna",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-16T11:26:43.412529+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "MariaDB",
-   "handle": "mariadb",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-16T11:26:43.412529+00:00",
+   "date": "2026-09-17T11:36:00.898464+00:00",
    "type": "scope_removed",
-   "platform": "yeswehack",
-   "program": "vidaXL Services - Open Bug Bounty Program",
-   "handle": "vidaxl-services-open-bug-bounty-program",
-   "asset": "https://parcelhubeurope.com",
+   "platform": "hackerone",
+   "program": "Goldman Sachs",
+   "handle": "goldmansachs",
+   "asset": "*.vennhypotheken.nl",
    "asset_type": null
   },
   {
-   "date": "2026-09-16T11:26:43.412529+00:00",
+   "date": "2026-09-17T11:36:00.898464+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Vimeo",
+   "handle": "vimeo",
+   "asset": "*.livestream.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T11:36:00.898464+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Vimeo",
+   "handle": "vimeo",
+   "asset": "*.new.livestream.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T11:36:00.898464+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Vimeo",
+   "handle": "vimeo",
+   "asset": "Livestream software (Producer, Studio)",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T11:36:00.898464+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Vimeo",
+   "handle": "vimeo",
+   "asset": "com.livestream.livestream",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T11:36:00.898464+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Vimeo",
+   "handle": "vimeo",
+   "asset": "donations.livestream.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T11:36:00.898464+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Vimeo",
+   "handle": "vimeo",
+   "asset": "www.livestream.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T11:36:00.898464+00:00",
    "type": "new_program",
+   "platform": "yeswehack",
+   "program": "Dovecot",
+   "handle": "dovecot",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T11:36:00.898464+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "UpCloud Bug Bounty",
+   "handle": "upcloud/upcloud",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T11:36:00.898464+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Kinepolis Group",
+   "handle": "kinepolis/website",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T11:36:00.898464+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "TrueLayer",
+   "handle": "truelayer/truelayer",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-17T10:29:08+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
    "program": "Leapsome",
    "handle": "leapsome/leapsome",
@@ -47,8 +110,8 @@
    "asset_type": null
   },
   {
-   "date": "2026-09-16T11:26:43.412529+00:00",
-   "type": "new_program",
+   "date": "2026-09-17T09:31:02+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
    "program": "Daytona Bug Bounty",
    "handle": "daytona/daytonabugbounty",
@@ -56,47 +119,11 @@
    "asset_type": null
   },
   {
-   "date": "2026-09-16T11:26:43.412529+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Skoda Auto Bug Bounty Program",
-   "handle": "skodaauto/skodaautoprivatebugbountyprogram",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-16T11:26:43.412529+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "DataCamp",
-   "handle": "datacamp/datacamp",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-16T11:26:43.412529+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "GULP",
-   "handle": "randstad/gulp",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-16T11:26:43.412529+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Coveo Public Bug Bounty",
-   "handle": "coveo/coveopublicbugbounty",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-16T10:24:33+00:00",
+   "date": "2026-09-16T16:07:47+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "The Perfume Shop",
-   "handle": "aswatson/theperfumeshop",
+   "program": "Adobe Public",
+   "handle": "adobe/adobepublic",
    "asset": null,
    "asset_type": null
   },
@@ -171,15 +198,6 @@
    "bounty": true
   },
   {
-   "date": "2026-09-16T08:58:46.804000+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "d-you App & German EUDI Wallet Ecosystem",
-   "handle": "common_codes",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-09-15T17:38:45.237000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -218,24 +236,6 @@
    "asset": "d-you iOS test",
    "asset_type": "TESTFLIGHT",
    "bounty": true
-  },
-  {
-   "date": "2026-09-15T15:48:09+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Ubisoft Game Security BBP",
-   "handle": "ubisoft/ubisoftgamesecbbp",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-15T12:52:45+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "CM.com",
-   "handle": "cmcom/cmcom",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-09-15T07:24:37.399000+00:00",
@@ -351,7 +351,7 @@
    "date": "2026-09-14T20:58:43.754000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
-   "program": "Arc BBP",
+   "program": "Arc",
    "handle": "arc-bbp",
    "asset": "rpc.drpc.testnet.arc.network",
    "asset_type": "URL",
@@ -361,7 +361,7 @@
    "date": "2026-09-14T20:03:11.352000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
-   "program": "Arc BBP",
+   "program": "Arc",
    "handle": "arc-bbp",
    "asset": "*.arc.io",
    "asset_type": "WILDCARD",
@@ -391,7 +391,7 @@
    "date": "2026-09-14T18:10:43.358000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
-   "program": "Arc BBP",
+   "program": "Arc",
    "handle": "arc-bbp",
    "asset": "rpc.testnet.arc.network",
    "asset_type": "URL",
@@ -401,7 +401,7 @@
    "date": "2026-09-14T18:10:43.358000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
-   "program": "Arc BBP",
+   "program": "Arc",
    "handle": "arc-bbp",
    "asset": "https://github.com/circlefin/arc-node",
    "asset_type": "SOURCE_CODE",
@@ -411,7 +411,7 @@
    "date": "2026-09-14T18:10:43.358000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
-   "program": "Arc BBP",
+   "program": "Arc",
    "handle": "arc-bbp",
    "asset": "https://github.com/circlefin/arc-remote-signer",
    "asset_type": "SOURCE_CODE",
@@ -441,7 +441,7 @@
    "date": "2026-09-11T20:23:24.339000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
-   "program": "Arc BBP",
+   "program": "Arc",
    "handle": "arc-bbp",
    "asset": "arc.io",
    "asset_type": "URL",
