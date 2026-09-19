@@ -1,26 +1,139 @@
 {
- "generated_at": "2026-09-18T11:13:17.309392+00:00",
+ "generated_at": "2026-09-19T10:57:44.135672+00:00",
  "changes": [
   {
-   "date": "2026-09-18T11:13:17.309392+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "DataCamp",
-   "handle": "datacamp/datacamp",
-   "asset": null,
+   "date": "2026-09-19T10:57:44.135672+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "clientadmin.pp.transunion.co.uk",
    "asset_type": null
   },
   {
-   "date": "2026-09-18T08:48:46+00:00",
+   "date": "2026-09-19T10:57:44.135672+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "clientadmin.transunion.co.uk",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-19T10:57:44.135672+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "cmsstage.transunion.co.uk",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-19T10:57:44.135672+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "connect.ct.openbanking.transunion.co.uk",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-19T10:57:44.135672+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "hostinger ",
+   "handle": "hostinger",
+   "asset": "H5G",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-19T10:57:44.135672+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "hostinger ",
+   "handle": "hostinger",
+   "asset": "http://payments.hostinger.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-19T10:57:44.135672+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "hostinger ",
+   "handle": "hostinger",
+   "asset": "mail.hostinger.com/v2",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-19T10:57:44.135672+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "hostinger ",
+   "handle": "hostinger",
+   "asset": "www.hostinger.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-18T16:40:38.841000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Bose (VDP)",
+   "handle": "bose_vdp",
+   "asset": "Stream Unlimited",
+   "asset_type": "OTHER",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-18T15:00:45.841000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "help.transunion.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-18T14:57:14.466000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "nim.trucontact.us.transunion.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-18T14:34:52.733000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "appservices.transunion.ca",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-18T14:12:05+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Delen Private Bank",
-   "handle": "delenprivatebank/privatebankdelen",
+   "program": "Driessen Vulnerability Disclosure Program",
+   "handle": "driessengroep/driessenvdp",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-18T07:36:48+00:00",
+   "date": "2026-09-18T13:16:27.163000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "hostinger ",
+   "handle": "hostinger",
+   "asset": "ecommerce.hostinger.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-18T12:06:32+00:00",
    "type": "program_updated",
    "platform": "intigriti",
    "program": "Adobe Public",
@@ -157,15 +270,6 @@
    "asset": "kineticbusiness.com",
    "asset_type": "URL",
    "bounty": false
-  },
-  {
-   "date": "2026-09-17T18:29:56+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "SolarWinds VDP",
-   "handle": "solarwinds/solarwindsvdp",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-09-17T15:49:04.752000+00:00",
@@ -306,15 +410,6 @@
    "asset": "d-you Wallet Android Test",
    "asset_type": "GOOGLE_PLAY_APP_ID",
    "bounty": true
-  },
-  {
-   "date": "2026-09-15T21:08:51+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Intel\u00ae Vulnerability Disclosure Program ",
-   "handle": "intel/intelvulnerabilitydisclosureprogram",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-09-15T17:38:45.237000+00:00",
@@ -5895,106 +5990,6 @@
    "asset": "com.wolt.courierapp",
    "asset_type": "GOOGLE_PLAY_APP_ID",
    "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:28:44.999000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "com.wolt.android",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:17:43.281000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "wolt.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:16:48.997000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "restaurant-api.wolt.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:16:17.057000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "ops.wolt.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:15:22.508000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "merchant.wolt.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:14:27.882000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "drive.wolt.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:13:46.596000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "corporate.wolt.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:12:44.031000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "authentication.wolt.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-03T00:23:29.686000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "th.oreosea.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-03T00:22:46.301000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "winwithphilly.no",
-   "asset_type": "URL",
-   "bounty": false
   }
  ]
 }
