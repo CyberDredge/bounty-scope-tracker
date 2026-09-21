@@ -1,6 +1,16 @@
 {
- "generated_at": "2026-09-20T06:35:46.181921+00:00",
+ "generated_at": "2026-09-21T06:49:54.232566+00:00",
  "changes": [
+  {
+   "date": "2026-09-21T06:32:43.772000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Grab",
+   "handle": "grab",
+   "asset": "Cloud & 3rd-Party Services (First-Party Misconfigurations)",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
   {
    "date": "2026-09-18T16:40:38.841000+00:00",
    "type": "scope_added",
@@ -250,6 +260,15 @@
    "asset": "*.expediataap.com",
    "asset_type": "WILDCARD",
    "bounty": true
+  },
+  {
+   "date": "2026-09-17T08:40:37+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Challenge 0926",
+   "handle": "intigriti/challenge0926",
+   "asset": null,
+   "asset_type": null
   },
   {
    "date": "2026-09-16T09:10:32.820000+00:00",
@@ -5980,26 +5999,6 @@
    "asset": "authentication.wolt.com",
    "asset_type": "URL",
    "bounty": true
-  },
-  {
-   "date": "2026-07-03T00:23:29.686000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "th.oreosea.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-03T00:22:46.301000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "winwithphilly.no",
-   "asset_type": "URL",
-   "bounty": false
   }
  ]
 }
