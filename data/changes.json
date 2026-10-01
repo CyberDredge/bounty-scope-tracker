@@ -1,75 +1,88 @@
 {
- "generated_at": "2026-09-30T06:42:34.717534+00:00",
+ "generated_at": "2026-10-01T06:43:37.204914+00:00",
  "changes": [
   {
-   "date": "2026-09-30T06:42:34.717534+00:00",
+   "date": "2026-10-01T06:43:37.204914+00:00",
    "type": "new_program",
+   "platform": "intigriti",
+   "program": "Daytona Bug Bounty",
+   "handle": "daytona/daytonabugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-01T06:43:37.204914+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "UZ Leuven",
+   "handle": "uz leuven/uzleuven",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-30T18:54:16.722000+00:00",
+   "type": "scope_added",
    "platform": "hackerone",
-   "program": "Walt.io",
-   "handle": "walt_io",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "https://www.currencycloud.com/",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-30T14:27:49+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Intergamma",
+   "handle": "intergamma/intergamma",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-30T06:42:34.717534+00:00",
-   "type": "scope_removed",
+   "date": "2026-09-30T13:43:20.724000+00:00",
+   "type": "scope_added",
    "platform": "hackerone",
-   "program": "Shutterfly VDP",
-   "handle": "shutterfly_vdp",
-   "asset": "www.borrowlenses.com",
-   "asset_type": null
+   "program": "MongoDB",
+   "handle": "mongodb",
+   "asset": "Atlas Infinite",
+   "asset_type": "OTHER",
+   "bounty": true
   },
   {
-   "date": "2026-09-30T06:42:34.717534+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Randstad",
-   "handle": "randstad/randstad",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-09-30T13:42:41.560000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "MongoDB",
+   "handle": "mongodb",
+   "asset": "MongoDB Atlas Agent Engine CLI and First Party Libraries",
+   "asset_type": "OTHER",
+   "bounty": true
   },
   {
-   "date": "2026-09-30T06:42:34.717534+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Sqills",
-   "handle": "sqills/sqillscorporatewebsite",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-09-30T13:40:57.360000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "MongoDB",
+   "handle": "mongodb",
+   "asset": "MongoDB Atlas Agent Engine ",
+   "asset_type": "OTHER",
+   "bounty": true
   },
   {
-   "date": "2026-09-29T14:58:18+00:00",
+   "date": "2026-09-30T12:18:44+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "DPG Media",
-   "handle": "dpgm/dpgmedia",
+   "program": "My.sdworx.com",
+   "handle": "sdworx/myworkandme",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-29T13:45:30+00:00",
+   "date": "2026-09-30T10:28:07+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Intel\u00ae Vulnerability Disclosure Program ",
-   "handle": "intel/intelvulnerabilitydisclosureprogram",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-29T13:19:46+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Nexuzhealth",
-   "handle": "nexuzhealth/nexuzhealth",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-29T13:19:26+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Nexuzhealth VDP",
-   "handle": "nexuzhealth/nexuzhealthvdp",
+   "program": "Rivian Bug Bounty",
+   "handle": "rivian/rivianbugbounty",
    "asset": null,
    "asset_type": null
   },
@@ -5980,16 +5993,6 @@
    "program": "NBA Public Bug Bounty",
    "handle": "nba-public",
    "asset": "detroit-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "detroit-qa.gleague.nba.com",
    "asset_type": "URL",
    "bounty": true
   }
