@@ -1,49 +1,131 @@
 {
- "generated_at": "2026-10-02T06:42:09.526811+00:00",
+ "generated_at": "2026-10-03T06:46:05.313328+00:00",
  "changes": [
   {
-   "date": "2026-10-02T06:42:09.526811+00:00",
+   "date": "2026-10-03T06:46:05.313328+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "AWS VDP",
-   "handle": "aws_vdp",
-   "asset": "AWS Cloudfront2",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "http://discover.apac.3ds.firstdata.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-02T06:42:09.526811+00:00",
+   "date": "2026-10-03T06:46:05.313328+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "SIX Group",
-   "handle": "six-group",
-   "asset": "https://apps.apple.com/mx/app/schweizer-finanzmuseum/id1225222871",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "app.demand.cybersource.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-02T06:42:09.526811+00:00",
+   "date": "2026-10-03T06:46:05.313328+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "SIX Group",
-   "handle": "six-group",
-   "asset": "https://play.google.com/store/search?q=Schweizer+Finanzmuseum&c=apps",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "images.demand.cybersource.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-02T06:42:09.526811+00:00",
+   "date": "2026-10-03T06:46:05.313328+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "MongoDB",
-   "handle": "mongodb",
-   "asset": "All Evergreen Assets (Excluding staging)",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "info.authorize.net",
    "asset_type": null
   },
   {
-   "date": "2026-10-02T06:42:09.526811+00:00",
+   "date": "2026-10-03T06:46:05.313328+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "MongoDB",
-   "handle": "mongodb",
-   "asset": "MongoDB Community Server",
+   "program": "Crowdstrike",
+   "handle": "crowdstrike",
+   "asset": "onum-labs.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-03T06:46:05.313328+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Crowdstrike",
+   "handle": "crowdstrike",
+   "asset": "onum.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-03T06:46:05.313328+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "YesWeHack Dojo",
+   "handle": "dojo",
+   "asset": "https://dojo-yeswehack.com/challenge-of-the-month/dojo-54",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-03T06:46:05.313328+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "YesWeHack Dojo",
+   "handle": "dojo",
+   "asset": "https://dojo-yeswehack.com/challenge-of-the-month/dojo-55",
+   "asset_type": null,
+   "bounty": false
+  },
+  {
+   "date": "2026-10-03T06:46:05.313328+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Visma",
+   "handle": "visma/visma",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-03T06:46:05.313328+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "TrueLayer",
+   "handle": "truelayer/truelayer",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-03T06:46:05.313328+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Venly",
+   "handle": "arkane/arkanenetwork",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-03T06:46:05.313328+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "UZ Leuven",
+   "handle": "uz leuven/uzleuven",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-02T16:08:16+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Yahoo Bug Bounty",
+   "handle": "yahoo/yahoobugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-02T12:49:34+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Posti Bug Bounty ",
+   "handle": "posti/postibugbounty",
+   "asset": null,
    "asset_type": null
   },
   {
@@ -1147,15 +1229,6 @@
    "bounty": true
   },
   {
-   "date": "2026-10-01T20:10:25+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "The Coca-Cola Company Vulnerability Disclosure Program",
-   "handle": "tccc/coca-cola",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-10-01T18:18:11.898000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -1166,15 +1239,6 @@
    "bounty": true
   },
   {
-   "date": "2026-10-01T17:46:03.202000+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Omarchy",
-   "handle": "omarchy",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-10-01T16:34:36.710000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -1183,24 +1247,6 @@
    "asset": "https://github.com/strands-agents/*",
    "asset_type": "WILDCARD",
    "bounty": false
-  },
-  {
-   "date": "2026-10-01T09:04:09+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Dstny",
-   "handle": "dstny/dstnybugbounty",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-01T08:32:46+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Adobe Public",
-   "handle": "adobe/adobepublic",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-09-30T18:54:16.722000+00:00",
@@ -1661,15 +1707,6 @@
    "asset": "https://gatewaydsapprd.marriott.com/v1/",
    "asset_type": "URL",
    "bounty": true
-  },
-  {
-   "date": "2026-09-24T14:55:14+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "NxtPort VDP",
-   "handle": "portofantwerp/nxtportvdp",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-09-24T14:08:40.735000+00:00",
@@ -5562,15 +5599,6 @@
    "bounty": true
   },
   {
-   "date": "2026-08-03T13:01:29+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Mateco VDP",
-   "handle": "mateco/matecovdp",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-07-30T16:45:00.372000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -5957,36 +5985,6 @@
    "program": "Assa Abloy Americas",
    "handle": "assa_abloy_americas",
    "asset": "https://bittings.medeco.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://ca-roa.medeco.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://keycontrol.medeco.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://roa.medeco.com",
    "asset_type": "URL",
    "bounty": false
   }
