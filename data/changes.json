@@ -1,6 +1,391 @@
 {
- "generated_at": "2026-10-04T08:20:14.825482+00:00",
+ "generated_at": "2026-10-05T06:58:50.380082+00:00",
  "changes": [
+  {
+   "date": "2026-10-05T06:58:50.380082+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "bridekidnapping.alternativa.film",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-05T06:58:50.380082+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "festival.alternativa.film",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-05T06:58:50.380082+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "https://*.indriverjob.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-05T06:58:50.380082+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "indrive.alternativa.film",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-05T06:58:50.380082+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "injob.indriver.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "ps-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "ra-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "ra-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "ra-gw-scf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "rc-cf.africa.afso1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "rc-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "rp-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "rs-gw-cf.africa.afso1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "rs-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "sc-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "sc-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "sc-gw-scf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "sfc-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "sn-api-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "ssn-lb-cf.africa.afso1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "ssn-lb-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "sur-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "sur-gw-scf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "tr-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "tr-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "tr-gw-scf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "tr-scf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "trv-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "txd-cf.cis.euce1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "txf-cf.cis.euce1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "txm-gw-cf.cis.euce1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "vm-cf.mena.meso1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "vm-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "was-cf.africa.afso1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "was-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "wd1-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "wd1-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "wlr-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T06:13:55.652000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "wlr-scf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
   {
    "date": "2026-10-02T04:47:49.771000+00:00",
    "type": "scope_added",
@@ -5609,396 +5994,6 @@
    "handle": "prism_vdp",
    "asset": "https://apps.apple.com/in/app/oyo-workspaces/id1448023664",
    "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-29T06:31:38.765000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "https://*.stugsommar.se",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-29T06:31:10.085000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "https://*.admiralstrand.dk",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-29T06:29:35.191000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "https://*.oyo-vacation-homes.net",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-29T06:28:08.415000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "https://*.booker-tools.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-29T06:27:19.951000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "partners.direct-booker.com/",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-29T06:25:47.741000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "www.checkmyguest.fr",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-29T06:21:07.037000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "https://*.g6hospitality.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-29T05:55:11.814000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "https://*.dancenter.dk",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-29T05:51:41.207000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "https://*.belvilla.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-29T05:49:10.535000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "https://*.motel6.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-29T05:47:44.932000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "https://*.madecomfy.com.au",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://accentra.assaabloy.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://eacconfig.assaabloy.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://yale.accentra.assaabloy.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://knowledge.openingsstudio.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://manage.openingsstudio.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://roa.assaabloy.net",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://controlid.com.br",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://yalelatinoamerica.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://yaleconnecthub.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://level.co",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://kwiksetunite.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://idsecure.com.br",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://goconcourse.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://bittings.medeco.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://ca-roa.medeco.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://keycontrol.medeco.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://roa.medeco.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://test-bittings.medeco.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://test-keycontrol.medeco.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://test-roa.medeco.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://play.google.com/store/apps/details?id=com.yale.multifamconftool",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://play.google.com/store/apps/details?id=com.luxerone.mobile.residentapp",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://play.google.com/store/apps/details?id=com.kwikset.blewifi",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://play.google.com/store/apps/details?id=com.assaabloy.yaleconnect",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://play.google.com/store/apps/details?id=com.assaabloy.centrIosAppStore",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://play.google.com/store/apps/details?id=com.assaabloy.accentra.access",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://play.google.com/store/apps/details?id=br.com.controlid.rhid&hl=en&gl=US",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://play.google.com/store/apps/details?id=co.level.app",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
    "bounty": false
   }
  ]
