@@ -1,49 +1,444 @@
 {
- "generated_at": "2026-10-05T06:58:50.380082+00:00",
+ "generated_at": "2026-10-06T06:42:54.986262+00:00",
  "changes": [
   {
-   "date": "2026-10-05T06:58:50.380082+00:00",
-   "type": "scope_removed",
+   "date": "2026-10-06T06:42:54.986262+00:00",
+   "type": "new_program",
    "platform": "hackerone",
-   "program": "inDrive",
-   "handle": "indrive",
-   "asset": "bridekidnapping.alternativa.film",
+   "program": "Brave Software",
+   "handle": "brave",
+   "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-05T06:58:50.380082+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "inDrive",
-   "handle": "indrive",
-   "asset": "festival.alternativa.film",
+   "date": "2026-10-06T06:42:54.986262+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Daytona Bug Bounty",
+   "handle": "daytona/daytonabugbounty",
+   "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-05T06:58:50.380082+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "inDrive",
-   "handle": "indrive",
-   "asset": "https://*.indriverjob.com",
+   "date": "2026-10-06T06:42:54.986262+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "TrueLayer",
+   "handle": "truelayer/truelayer",
+   "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-05T06:58:50.380082+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "inDrive",
-   "handle": "indrive",
-   "asset": "indrive.alternativa.film",
+   "date": "2026-10-06T06:42:54.986262+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Ninja Kiwi Games Bug Bounty program",
+   "handle": "ninjakiwigames/ninjakiwigames",
+   "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-05T06:58:50.380082+00:00",
-   "type": "scope_removed",
+   "date": "2026-10-05T22:54:13+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Adobe Public",
+   "handle": "adobe/adobepublic",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-05T16:49:13+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "SolarWinds VDP",
+   "handle": "solarwinds/solarwindsvdp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-05T14:34:23+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Telenet - Base - Wyre - Tadaam",
+   "handle": "telenet/telenetgroup",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-05T14:07:12.890000+00:00",
+   "type": "scope_added",
    "platform": "hackerone",
-   "program": "inDrive",
-   "handle": "indrive",
-   "asset": "injob.indriver.com",
+   "program": "d-you App & German EUDI Wallet Ecosystem",
+   "handle": "common_codes",
+   "asset": "https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/status-lists",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-05T14:05:22+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "RIPE NCC",
+   "handle": "ripencc/ripencc",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-05T11:01:52+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Capture Our Flag",
+   "handle": "intigriti/captureourflag",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-05T10:18:46.787000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "https://*-preprod.finnair.com/",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:18:20.918000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "*.finnairshop.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:17:03.914000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "paywithpoints.finnair.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:13:23.647000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "157.200.0.0/16",
+   "asset_type": "CIDR",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:13:11.996000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "*.dev.app.finnair.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:12:57.711000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "*.preprod.app.finnair.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:12:41.296000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "*.cloud.finnair.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:11:36.407000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "*.prod.app.finnair.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:11:00.391000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "https://*-dev.finnair.com/",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:10:37.579000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "https://*.finnair.com/",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:10:16.417000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "finnair.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:09:29.294000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "www.finnair.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:08:49.464000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "preauth.finnair.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:08:34.449000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "finnairshop.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:07:57.041000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "https://api.finnair.com/d/fcom/*",
+   "asset_type": "API",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:07:11.274000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "pay.finnair.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:06:34.601000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "https://api.finnair.com/d/payments/*",
+   "asset_type": "API",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:05:57.077000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "https://api.finnair.com/d/loyalty-service/ *",
+   "asset_type": "API",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:05:41.873000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "https://api.finnair.com/d/mobileapp/*",
+   "asset_type": "API",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:05:24.582000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "https://api-dev.finnair.com/d/*",
+   "asset_type": "API",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:04:59.150000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "https://api-preprod.finnair.com/d/*",
+   "asset_type": "API",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:04:27.314000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "https://api.finnair.com/d/mobileapp-services/*",
+   "asset_type": "API",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:04:12.753000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "933867978",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:03:57.855000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "com.finnair",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:01:53.096000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "cargo.finnair.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:01:32.074000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "fast.finnair.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:01:07.272000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "customercare.finnair.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:00:50.776000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "easy.finnair.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T10:00:32.892000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "partners.finnair.fi",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T09:57:04.279000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "finnairflightacademy.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T09:56:44.065000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "privacy.finnair.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T09:56:24.727000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "cms.finnair.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T09:55:45.038000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "*.aurinkomatkat.fi",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T09:55:45.038000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "aurinkomatkat.fi",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T08:47:41+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Aikido Security: Bug Bounty Program",
+   "handle": "aikido/aikido",
+   "asset": null,
    "asset_type": null
   },
   {
@@ -5595,406 +5990,6 @@
    "asset": "https://www.npmjs.com/package/@exodus/safe-string",
    "asset_type": "SOURCE_CODE",
    "bounty": true
-  },
-  {
-   "date": "2026-08-05T12:40:37.915000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "https://www.npmjs.com/package/@exodus/errors",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-05T12:40:00.841000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "https://www.npmjs.com/package/@exodus/sentry-client",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-05T12:39:07.075000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "https://www.npmjs.com/package/@exodus/keychain",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-05T12:37:51.154000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "https://github.com/ExodusOSS/hydra",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-05T12:36:38.595000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "https://github.com/ExodusOSS/bytes",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-05T12:36:04.295000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "https://github.com/ExodusOSS/crypto",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-04T22:40:16.230000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Live Nation",
-   "handle": "live_nation",
-   "asset": "www.lineup.com.mx",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-04T10:32:45.944000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "id6472633752",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-04T01:19:54.709000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "eufy Security",
-   "handle": "eufy_security",
-   "asset": "eufyMake Studio(2D UV)",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T20:55:18.006000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Live Nation",
-   "handle": "live_nation",
-   "asset": "https://apps.apple.com/no/app/royal-arena/id1181913144",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T20:52:36.336000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Live Nation",
-   "handle": "live_nation",
-   "asset": "1181913144",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T20:52:02.297000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Live Nation",
-   "handle": "live_nation",
-   "asset": "dk.royalarena.app",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T20:50:59.910000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Live Nation",
-   "handle": "live_nation",
-   "asset": "www.onthewaterfrontfestival.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T20:50:30.155000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Live Nation",
-   "handle": "live_nation",
-   "asset": "www.royalarena.dk",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T20:48:57.151000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Live Nation",
-   "handle": "live_nation",
-   "asset": "www.livenation.co.uk",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T19:25:49.586000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "kyc.a.exodus.io",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T19:25:35.021000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "fiat-prod-fallback.a.exodus.io",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T19:25:11.954000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "fiat-p.a.exodus.io",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T19:24:51.838000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "fiat.a.exodus.io",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T19:21:13.390000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "ctr.a.exodus.io",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T19:20:57.918000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "nexotrack-p.exodus.io",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T19:20:36.381000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "nexotrack.exodus.io",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T18:02:47.322000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "turing.exodus.io",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T18:02:00.044000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "pay-admin.exodus.io",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T18:00:45.655000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "login.exodus.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T14:52:25.790000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "pay.exodus.io",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-30T16:45:00.372000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "adamsrite.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-30T16:41:55.706000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "empidwatch.sontiq.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-29T14:46:55.601000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Varonis",
-   "handle": "varonis",
-   "asset": "support.varonis.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-29T14:45:57.427000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Varonis",
-   "handle": "varonis",
-   "asset": "my.varonis.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-29T14:45:29.757000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Varonis",
-   "handle": "varonis",
-   "asset": "downloads.varonis.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-29T14:44:26.344000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Varonis",
-   "handle": "varonis",
-   "asset": "licensemgmt.varonis.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-29T14:15:57.632000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mars",
-   "handle": "mars",
-   "asset": "*.pringles.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-29T14:11:20.458000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MoonPay ",
-   "handle": "moonpay",
-   "asset": "api.moonx-dev.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-29T14:10:34.511000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MoonPay ",
-   "handle": "moonpay",
-   "asset": "iframe.moonx-dev.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-29T14:10:08.451000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mars",
-   "handle": "mars",
-   "asset": "*.kellanova.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-29T13:56:32.585000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MoonPay ",
-   "handle": "moonpay",
-   "asset": "api.paybox.sh",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-29T13:54:13.310000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MoonPay ",
-   "handle": "moonpay",
-   "asset": "app.paybox.sh",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-29T13:44:44.712000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MoonPay ",
-   "handle": "moonpay",
-   "asset": "paybox.sh",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-29T08:54:24.011000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "https://apps.apple.com/in/app/oyo-workspaces/id1448023664",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
   }
  ]
 }
