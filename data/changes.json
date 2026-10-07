@@ -1,44 +1,102 @@
 {
- "generated_at": "2026-10-06T06:42:54.986262+00:00",
+ "generated_at": "2026-10-07T06:41:57.233600+00:00",
  "changes": [
   {
-   "date": "2026-10-06T06:42:54.986262+00:00",
+   "date": "2026-10-07T06:41:57.233600+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "http://amex.apac.3ds.firstdata.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-07T06:41:57.233600+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "http://apac.3ds.firstdata.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-07T06:41:57.233600+00:00",
    "type": "new_program",
    "platform": "hackerone",
-   "program": "Brave Software",
-   "handle": "brave",
+   "program": "Algolia",
+   "handle": "algolia",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-06T06:42:54.986262+00:00",
-   "type": "new_program",
+   "date": "2026-10-07T06:41:57.233600+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "ZECIBLE PUBLIC BUG BOUNTY PROGRAM",
+   "handle": "zecible-public-bug-bounty-program",
+   "asset": "odoo14.notebleue.pro",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-07T06:41:57.233600+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "ZECIBLE PUBLIC BUG BOUNTY PROGRAM",
+   "handle": "zecible-public-bug-bounty-program",
+   "asset": "git.notebleue.pro",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-10-07T06:41:57.233600+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "ZECIBLE PUBLIC BUG BOUNTY PROGRAM",
+   "handle": "zecible-public-bug-bounty-program",
+   "asset": "odoo.zecible.pro",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-10-07T06:41:57.233600+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "ZECIBLE PUBLIC BUG BOUNTY PROGRAM",
+   "handle": "zecible-public-bug-bounty-program",
+   "asset": "ywh.static.zcb.fr",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-10-07T06:41:57.233600+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "ZECIBLE PUBLIC BUG BOUNTY PROGRAM",
+   "handle": "zecible-public-bug-bounty-program",
+   "asset": "ywh.verify.zecible.fr",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-10-06T21:39:59+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
-   "program": "Daytona Bug Bounty",
-   "handle": "daytona/daytonabugbounty",
+   "program": "Dstny",
+   "handle": "dstny/dstnybugbounty",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-06T06:42:54.986262+00:00",
-   "type": "new_program",
+   "date": "2026-10-06T17:53:20+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
-   "program": "TrueLayer",
-   "handle": "truelayer/truelayer",
+   "program": "DigitalOcean",
+   "handle": "digitalocean/digitalocean",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-06T06:42:54.986262+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Ninja Kiwi Games Bug Bounty program",
-   "handle": "ninjakiwigames/ninjakiwigames",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-05T22:54:13+00:00",
+   "date": "2026-10-06T14:30:02+00:00",
    "type": "program_updated",
    "platform": "intigriti",
    "program": "Adobe Public",
@@ -47,20 +105,20 @@
    "asset_type": null
   },
   {
-   "date": "2026-10-05T16:49:13+00:00",
+   "date": "2026-10-06T11:31:35+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "SolarWinds VDP",
-   "handle": "solarwinds/solarwindsvdp",
+   "program": "Daytona Bug Bounty",
+   "handle": "daytona/daytonabugbounty",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-05T14:34:23+00:00",
+   "date": "2026-10-06T07:22:16+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Telenet - Base - Wyre - Tadaam",
-   "handle": "telenet/telenetgroup",
+   "program": "Nestl\u00e9 VDP",
+   "handle": "nestl\u00e9/nestl\u00e9vdp",
    "asset": null,
    "asset_type": null
   },
@@ -73,24 +131,6 @@
    "asset": "https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/status-lists",
    "asset_type": "API",
    "bounty": true
-  },
-  {
-   "date": "2026-10-05T14:05:22+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "RIPE NCC",
-   "handle": "ripencc/ripencc",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-05T11:01:52+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Capture Our Flag",
-   "handle": "intigriti/captureourflag",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-10-05T10:18:46.787000+00:00",
@@ -431,15 +471,6 @@
    "asset": "aurinkomatkat.fi",
    "asset_type": "URL",
    "bounty": false
-  },
-  {
-   "date": "2026-10-05T08:47:41+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Aikido Security: Bug Bounty Program",
-   "handle": "aikido/aikido",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-10-05T06:13:55.652000+00:00",
@@ -5959,36 +5990,6 @@
    "handle": "superhuman",
    "asset": "com.superhuman.mail",
    "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-05T13:09:55.701000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-05T13:09:01.104000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-05T12:41:19.874000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "https://www.npmjs.com/package/@exodus/safe-string",
-   "asset_type": "SOURCE_CODE",
    "bounty": true
   }
  ]
