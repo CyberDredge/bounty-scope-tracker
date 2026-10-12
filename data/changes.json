@@ -1,21 +1,12 @@
 {
- "generated_at": "2026-10-11T06:40:30.736615+00:00",
+ "generated_at": "2026-10-12T07:00:06.756601+00:00",
  "changes": [
   {
-   "date": "2026-10-11T06:40:30.736615+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Sqills",
-   "handle": "sqills/sqillscorporatewebsite",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-10T11:03:13+00:00",
+   "date": "2026-10-11T08:15:44+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Here Technologies",
-   "handle": "heretechnologies/heretechnologies",
+   "program": "Daytona Bug Bounty",
+   "handle": "daytona/daytonabugbounty",
    "asset": null,
    "asset_type": null
   },
@@ -5996,6 +5987,16 @@
    "program": "Exodus",
    "handle": "exodus",
    "asset": "https://www.npmjs.com/package/@exodus/safe-string",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-05T12:40:37.915000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "https://www.npmjs.com/package/@exodus/errors",
    "asset_type": "SOURCE_CODE",
    "bounty": true
   }
