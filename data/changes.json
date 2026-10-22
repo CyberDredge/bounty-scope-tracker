@@ -1,68 +1,203 @@
 {
- "generated_at": "2026-10-21T06:39:36.891007+00:00",
+ "generated_at": "2026-10-22T06:39:30.670982+00:00",
  "changes": [
   {
-   "date": "2026-10-21T06:39:36.891007+00:00",
+   "date": "2026-10-22T06:39:30.670982+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Cognition",
-   "handle": "cognition",
-   "asset": "Windsurf Plugins",
+   "program": "Inspectorio",
+   "handle": "inspectorio",
+   "asset": "https://app.bitrise.io/app/51a95edaab331ec5/installable-artifacts/e5213e1a814bf0ba/public-install-page/bed0d33f048271d6828c5a4a979ecc96",
    "asset_type": null
   },
   {
-   "date": "2026-10-21T06:39:36.891007+00:00",
+   "date": "2026-10-22T06:39:30.670982+00:00",
    "type": "new_program",
    "platform": "hackerone",
-   "program": "Basecamp",
-   "handle": "basecamp",
+   "program": "Publitas",
+   "handle": "publitas",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-21T06:39:36.891007+00:00",
+   "date": "2026-10-22T06:39:30.670982+00:00",
    "type": "scope_removed",
-   "platform": "yeswehack",
-   "program": "VINCI SA - Public program",
-   "handle": "vincisa-public-program",
-   "asset": "vinci-groupe.profils.org",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "*.expediaagents.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-21T06:39:36.891007+00:00",
+   "date": "2026-10-22T06:39:30.670982+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "*.expediacruises.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-22T06:39:30.670982+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "www.expediacruises.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-22T06:39:30.670982+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "Sqills",
-   "handle": "sqills/sqillscorporatewebsite",
+   "program": "Coveo Public Bug Bounty",
+   "handle": "coveo/coveopublicbugbounty",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-21T06:39:36.891007+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Skoda Auto Bug Bounty Program",
-   "handle": "skodaauto/skodaautoprivatebugbountyprogram",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-21T06:39:36.891007+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "DataCamp",
-   "handle": "datacamp/datacamp",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-21T06:25:15+00:00",
+   "date": "2026-10-22T05:46:28+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Intergamma",
-   "handle": "intergamma/intergamma",
+   "program": "UZ Leuven",
+   "handle": "uz leuven/uzleuven",
    "asset": null,
    "asset_type": null
+  },
+  {
+   "date": "2026-10-21T20:25:00+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "NxtPort VDP",
+   "handle": "portofantwerp/nxtportvdp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-21T19:08:40.246000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Early Warning",
+   "handle": "early_warning",
+   "asset": "aoa-ws-fis.earlywarning.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-21T19:08:21.571000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Early Warning",
+   "handle": "early_warning",
+   "asset": "inquirydirect.earlywarning.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-21T19:08:01.341000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Early Warning",
+   "handle": "early_warning",
+   "asset": "https://aoa-ws-direct-snd.earlywarning.com/aoainquiryservice/services/aoainquiryservice",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-21T19:07:41.572000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Early Warning",
+   "handle": "early_warning",
+   "asset": "https://aoa-ws-direct.earlywarning.com/aoainquiryservice/services/aoainquiryservice",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-21T19:07:12.482000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Early Warning",
+   "handle": "early_warning",
+   "asset": "https://aoa-ws.earlywarning.com/aoainquiryservice/services/aoainquiryservice",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-21T19:06:24.686000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Early Warning",
+   "handle": "early_warning",
+   "asset": "accountinfodirect-snd.earlywarning.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-21T19:06:05.040000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Early Warning",
+   "handle": "early_warning",
+   "asset": "accountinfodirect.earlywarning.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-21T19:03:57.874000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Early Warning",
+   "handle": "early_warning",
+   "asset": "https://accountinfo.earlywarning.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-21T15:07:57+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Yahoo Bug Bounty",
+   "handle": "yahoo/yahoobugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-21T14:12:43+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Visma",
+   "handle": "visma/visma",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-21T12:51:05+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "TrueLayer",
+   "handle": "truelayer/truelayer",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-21T10:11:34+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Pornhub Bug Bounty Program",
+   "handle": "aylo/pornhub-bbp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-21T07:42:10.391000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "MoonPay ",
+   "handle": "moonpay",
+   "asset": "*.dflow.net",
+   "asset_type": "WILDCARD",
+   "bounty": true
   },
   {
    "date": "2026-10-20T15:16:42.198000+00:00",
@@ -73,15 +208,6 @@
    "asset": "https://github.com/sveltejs/kit",
    "asset_type": "SOURCE_CODE",
    "bounty": true
-  },
-  {
-   "date": "2026-10-20T13:34:14+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "TrueLayer",
-   "handle": "truelayer/truelayer",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-10-20T08:45:42.411000+00:00",
@@ -4849,16 +4975,6 @@
    "platform": "hackerone",
    "program": "Expedia Group Bug Bounty",
    "handle": "expediagroup_bbp",
-   "asset": "*.expediaagents.com",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-09-09T16:18:20.904000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Expedia Group Bug Bounty",
-   "handle": "expediagroup_bbp",
    "asset": "*.expediagroup.com",
    "asset_type": "WILDCARD",
    "bounty": true
@@ -5870,126 +5986,6 @@
    "program": "KKR-VDP",
    "handle": "kkr_vdp",
    "asset": "kkr-capstone.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:30:21.808000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "katmaicapital.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "acrtosnorthstar.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "amarokcapital.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "amarokpartners.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "arctosanalytics.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "arctoscredit.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "arctosgp.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "arctosinfra.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "arctospartners.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "arctospe.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "arctosportspartners.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "arctosportspartners.net",
    "asset_type": "URL",
    "bounty": false
   }
