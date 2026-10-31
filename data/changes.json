@@ -1,41 +1,90 @@
 {
- "generated_at": "2026-10-30T06:29:44.704371+00:00",
+ "generated_at": "2026-10-31T06:22:53.151677+00:00",
  "changes": [
   {
-   "date": "2026-10-30T06:29:44.704371+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "gifts.tatesbakeshop.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-30T06:29:44.704371+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Concrete CMS",
-   "handle": "concretecms",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-30T06:29:44.704371+00:00",
+   "date": "2026-10-31T06:22:53.151677+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "Allekabels",
-   "handle": "rpip/allekabels",
+   "program": "ADAC Bug Bounty Program",
+   "handle": "adac/adacbugbountyprogram",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-29T22:31:18+00:00",
+   "date": "2026-10-31T06:22:53.151677+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Doccle Bug Bounty program",
+   "handle": "doccle/doccle",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-31T06:22:53.151677+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "PDQ bug bounty program",
+   "handle": "pdq/pdqcomprivate",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-31T06:22:53.151677+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Voi Scooters",
+   "handle": "voi/voiscooters",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-30T20:28:04.557000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel",
+   "handle": "vercel",
+   "asset": "https://github.com/better-auth/better-auth",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-30T13:58:14+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "NVIDIA Public Bug Bounty",
-   "handle": "nvidia/nvidiapublicbugbounty",
+   "program": "Belfius",
+   "handle": "belfius/belfius",
    "asset": null,
    "asset_type": null
+  },
+  {
+   "date": "2026-10-30T06:44:37.836000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "1win",
+   "handle": "1win_com",
+   "asset": "forum.1win.io",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-30T06:43:14.945000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "1win",
+   "handle": "1win_com",
+   "asset": "1win.io",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-30T06:42:43.804000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "1win",
+   "handle": "1win_com",
+   "asset": "1win-partners.com",
+   "asset_type": "URL",
+   "bounty": true
   },
   {
    "date": "2026-10-29T18:44:33.086000+00:00",
@@ -46,51 +95,6 @@
    "asset": "WiFiman",
    "asset_type": "DOWNLOADABLE_EXECUTABLES",
    "bounty": true
-  },
-  {
-   "date": "2026-10-29T16:15:50+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Here Technologies",
-   "handle": "heretechnologies/heretechnologies",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-29T12:46:47+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Dstny",
-   "handle": "dstny/dstnybugbounty",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-29T12:34:07+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "SBB - Swiss Federal Railways",
-   "handle": "sbb/sbbglobal",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-29T09:21:04+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Superdrug",
-   "handle": "aswatson/superdrug",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-29T07:33:05+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Storebrand Responsible Disclosure",
-   "handle": "spp-storebrand/storebrand-rd",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-10-28T19:32:40.766000+00:00",
@@ -1078,16 +1082,6 @@
    "platform": "hackerone",
    "program": "Twilio",
    "handle": "twilio",
-   "asset": "https://github.com/stytchauth",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-10-13T17:12:07.868000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Twilio",
-   "handle": "twilio",
    "asset": "com.authy.authy",
    "asset_type": "GOOGLE_PLAY_APP_ID",
    "bounty": true
@@ -1470,6 +1464,16 @@
    "handle": "twilio",
    "asset": "trunking.twilio.com",
    "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "https://github.com/stytchauth",
+   "asset_type": "SOURCE_CODE",
    "bounty": true
   },
   {
@@ -3970,7 +3974,7 @@
    "handle": "wordpress",
    "asset": "Other github.com/wordpress repos",
    "asset_type": "SOURCE_CODE",
-   "bounty": true
+   "bounty": false
   },
   {
    "date": "2026-09-23T16:45:30.643000+00:00",
@@ -3980,7 +3984,7 @@
    "handle": "wordpress",
    "asset": "Create Block Theme",
    "asset_type": "SOURCE_CODE",
-   "bounty": true
+   "bounty": false
   },
   {
    "date": "2026-09-23T16:40:36.261000+00:00",
